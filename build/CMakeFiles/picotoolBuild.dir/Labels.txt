@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/sara/pico_projects/proximidad/build/CMakeFiles/picotoolBuild
+/home/sara/pico_projects/proximidad/build/CMakeFiles/picotoolBuild.rule
+/home/sara/pico_projects/proximidad/build/CMakeFiles/picotoolBuild-complete.rule
+/home/sara/pico_projects/proximidad/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/sara/pico_projects/proximidad/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/sara/pico_projects/proximidad/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/sara/pico_projects/proximidad/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/sara/pico_projects/proximidad/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/sara/pico_projects/proximidad/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/sara/pico_projects/proximidad/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/sara/pico_projects/proximidad/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
