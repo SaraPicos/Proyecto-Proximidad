@@ -1,0 +1,7 @@
+/home/sara/pico_projects/proximidad/build/_deps/picotool/picotool
+/home/sara/pico_projects/proximidad/build/_deps/picotool/picotoolTargets.cmake
+/home/sara/pico_projects/proximidad/build/_deps/picotool/picotoolTargets-release.cmake
+/home/sara/pico_projects/proximidad/build/_deps/picotool/picotoolConfig.cmake
+/home/sara/pico_projects/proximidad/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/sara/pico_projects/proximidad/build/_deps/picotool/enc_bootloader.elf
+/home/sara/pico_projects/proximidad/build/_deps/picotool/enc_bootloader_mbedtls.elf
