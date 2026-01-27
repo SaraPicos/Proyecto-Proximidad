@@ -1,2 +1,0 @@
-/home/sara/pico_projects/proximidad/build/_deps/picotool-build/enc_bootloader/CMakeFiles/edit_cache.dir
-/home/sara/pico_projects/proximidad/build/_deps/picotool-build/enc_bootloader/CMakeFiles/rebuild_cache.dir
